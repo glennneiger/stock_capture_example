@@ -1,7 +1,7 @@
 # stock_capture_example
 
 # Description
-The is a example for how to use BeautifulSoup for scrapping data from a website and plot a graph. 
+The is an example for how to use BeautifulSoup for scrapping data from a website and plot a graph. 
 
 # How to Use
 python stock.py
