@@ -10,3 +10,6 @@ python stock.py
 Since, the program has Chinese character, you have to install a font family "Microsoft JHengHei".
 
 Please refer to https://github.com/linzino7/matplotlibChinesefix
+
+## Result
+![Result](result.png)
